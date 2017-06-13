@@ -1,0 +1,11 @@
+Benutzte Datenbank: fs17_p.gerig_s09
+
+Anforderungen an Testdaten:
+1.) 	Eine Tierart hat mehrere Futter
+	Zur Sicherstellung das billigstes Futter erscheint.
+
+2.)	Ein Futter zu einer Tierart muss in mag.grad null haben
+	Darf in View nicht erscheinen
+
+3.)	Eine Spezies lieblingsfutter nicht mehr verkauft
+	Muss in View erscheinen
